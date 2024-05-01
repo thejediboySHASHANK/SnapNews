@@ -20,7 +20,7 @@ const Discover = () => {
             <div className="flex gap-3 flex-wrap">
                 {topics.map((item) => (
                     <Link href={`/?topic=${item.name}`} key={item.name}>
-                        <div className={topicStyle}>
+                        <div className={topic == item.name ? ActiveTopicStyle : topicStyle}>
                             <span className="font-bold text-2xl xl:text-md">
                                 {item.icon}
                             </span>

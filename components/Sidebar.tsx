@@ -51,21 +51,6 @@ const Sidebar = () => {
                             </div>
                         </Link>
                     </div>
-                    {!userProfile && (
-                        <div className="px-2 py-4 hidden xl:block">
-                            <p className="text-gray-400">Log in to like and comment on SnapNews</p>
-                            <div className="pr-4">
-                                <button className="bg-white text-lg text-[#E21818]
-                                        border-[1px] border-[#E21818] font-semibold
-                                        px-6 py-3 rounded-md
-                                        outline-none w-full mt-3
-                                        hover:text-white hover:bg-[#E21818]"
-                                >
-                                    Log in
-                                </button>
-                            </div>
-                        </div>
-                    )}
 
                     <Discover />
                     <SuggestedAccounts />
