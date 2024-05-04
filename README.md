@@ -2,8 +2,9 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 
 <p align="center">
-  <img src="https://github.com/thejediboySHASHANK/SnapNews/assets/95047201/b260220e-7174-4495-8cd9-b72ea0bad807">
+  <img src="https://github.com/thejediboySHASHANK/SnapNews/assets/95047201/b260220e-7174-4495-8cd9-b72ea0bad807" width="80%" height="auto">
 </p>
+
 
 
 
