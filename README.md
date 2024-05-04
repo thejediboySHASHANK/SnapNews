@@ -5,6 +5,12 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
   <img src="https://github.com/thejediboySHASHANK/SnapNews/assets/95047201/b260220e-7174-4495-8cd9-b72ea0bad807" width="30%" height="auto">
 </p>
 
+## Key Features
+Engaging Video News: Break away from traditional text-based news. Dive into short, captivating video formats that make news consumption more engaging.
+Interactive Experience: With server-side rendering, SnapNews provides a seamless and intuitive user experience. Users can interact in real time, offering likes, comments, and follows to foster a vibrant community.
+Community-Driven Content: Everyone can contribute! Whether you're capturing a local event or sharing a global news story, your videos help shape the narrative.
+Freemium Model: We're excited to be working on a freemium model that will make SnapNews accessible to more users while providing premium features for enhanced engagement.
+
 
 
 
