@@ -1,4 +1,4 @@
-
+ # SnapNews: Reinventing News Consumption
 
 
 <p align="center" style="margin-top: 80px;">
